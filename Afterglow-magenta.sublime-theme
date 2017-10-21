@@ -1,0 +1,21 @@
+[
+    {
+        "class": "sidebar_label",
+        "color": [184, 134,  11],
+        "font.bold": true,
+        "font.size": 18
+    },
+    {
+    "class": "tab_label",
+    "color": [184, 134,  11],
+    "font.size": 16, 
+     "font.bold": true,
+    "font.face": "Ubuntu"
+},
+{
+    "class": "tabset_control",
+    "tab_height": 42,
+    "tab_width": 160,
+    "tab_min_width": 48
+}
+]
