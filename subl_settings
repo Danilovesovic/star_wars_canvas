@@ -1,0 +1,18 @@
+{
+	"always_show_minimap_viewport": true,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Colorsublime - Themes/Afterglow.tmTheme",
+	"font_face": "SourceCodePro-Medium",
+	"font_size": 16,
+	"format_on_save": true,
+	"ignored_packages":
+	[
+		"JavaScript",
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"material_theme_small_tab": true,
+	"overlay_scroll_bars": "enabled",
+	"theme": "Afterglow-magenta.sublime-theme"
+}
